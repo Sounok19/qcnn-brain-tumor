@@ -1,1 +1,1 @@
-# skin-cancer-detection
+# qcnn-brain-tumor
